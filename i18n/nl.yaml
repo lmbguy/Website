@@ -1,0 +1,206 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Leon van der Neut"
+- id: "meta_description"
+  translation: "Dit is de persoonlijke website van Leon van der Neut"
+- id: "meta_keywords"
+  translation: "hugo, theme, bootstrap, adritian, Leon van der Neut, personal site, portfolio, single page application"
+- id: "meta_author"
+  translation: "Leon van der Neut"
+- id: "meta_image"
+  translation: "/static/favicon.ico"
+
+## Header
+- id: "logo_text1"
+  translation: "Leon"
+
+- id: "logo_text2"
+  translation: "van der Neut"
+
+- id: "nav_home"
+  translation: "VOORPAGINA"
+
+## General
+- id: "skipToMainContent"
+  translation: "Naar inhoud"
+
+- id: "toggle_navigation"
+  translation: "Schakel navigatie"
+
+## Footer
+- id: "footer_notice"
+  translation: "© 2025 Leon van der Neut"
+
+- id: "language"
+  translation: "Taal"
+
+- id: "toggle_theme"
+  translation: "Schakel thema"
+
+- id: "theme_light"
+  translation: "☀️ Licht"
+- id: "theme_dark"
+  translation: "🌑 Donker"
+- id: "theme_auto"
+  translation: "✨ Auto"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Leon van der Neut"
+
+- id: "head_description"
+  translation: "Dit is de persoonlijke website van Leon van der Neut."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Hey, mijn naam is Leon van der Neut"
+
+- id: "showcase_subtitle"
+  translation: "Technologie ethicus en bestuurskundige"
+
+- id: "showcase_description"
+  translation: "Welkom op mijn persoonlijke website. Leer meer over mij, mijn werkervaring, en lees mijn blog <br> Portret door @by_sop_photography."
+  
+
+- id: "showcase_button"
+  translation: "Contact"
+
+  ## not visible but used for accessibility
+- id: "showcase_image_alt"
+  translation: "Een foto van Leon van der Neut"
+
+## Homepage about
+- id: "about_title"
+  translation: "Wie ben ik?"
+
+- id: "about_content"
+  translation:  <p class="lead">
+      Ik ben een nieuwsgierige, recent afgestudeerde onderzoeker in bestuurskunde en filosofie over technologie. Ik ben opgeleid als technologie ethicus en gespecialiseerd in de evaluatie van technologiegebruik in overheidsorganisaties. Ik heb de ambitie om mijn basiskennis in machinaal leren in te zetten om mijn evaluaties aan technische specificaties te koppelen. <br>
+      
+      Mijn onderzoeksinteresse licht in de maatschappelijke impact van moderne technologie, zoals je waarschijnlijk op zal vallen wanneer je mijn <a target='_blank' href='/blog'>blog</a> leest. Ik vat technologie breed op. Niet alleen fysieke objecten, maar ook software, wiskunde, en sociale structuren zoals wetten en geld vat ik over het algemeen op als technologiën. Door deze brede opvatting betrek ik niet alleen de ambtenaar en de ontwikkelaar in de analyse, maar ook wetenschappers, politici, ondernemers en burgers. <br>
+      
+      In eerder onderzoek (i.e. mijn <a target='_blank' href='https://essay.utwente.nl/103693/'>MSc scriptie</a>) heb ik mij gericht op hoe we na kunnen denken over ambtelijke verantwoordelijkheid wanneer deze ambtenaren met machinaal lerende modellen werken. Met mijn conceptuele werk probeer ik ambtenaren in staat te stellen om in nieuw licht over hun dagelijkse werk na te denken.  <br>
+      
+      Foto door @by_sop_photography.
+      </p>
+
+- id: "about_button"
+  translation: "Mijn LinkedIn"
+
+## Homepage education
+- id: "education_title"
+  translation: "Diploma's"
+
+## Homepage experience
+- id: "experience_title"
+  translation: "Ervaring"
+
+- id: "experience_description"
+  translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+
+- id: "experience_button"
+  translation: "LinkedIn" 
+
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/adrianmoreno/"
+
+- id: "experience_button2"
+  translation: "Download resume"
+
+- id: "experience_button2_url"
+  translation: "/img/general/user-smile-fill.svg"
+
+- id: "experience_button3"
+  translation: "View all"
+
+- id: "experience_button3_url"
+  translation: "/experience"
+
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Clients & Work"
+
+## Homepage newsletter
+- id: "newsletter_title"
+  translation: "Newsletter"
+
+- id: "newsletter_button"
+  translation: "Subscribe"
+
+- id: "newsletter_placeholder"
+  translation: "Your email"
+
+- id: "newsletter_success_message"
+  translation: "Thank you for subscribing to my newsletter!"
+
+- id: "newsletter_error_message"
+  translation: "An error occurred. Please try again."
+
+- id: "newsletter_note"
+  translation: "We'll never share your email with anyone else."
+
+## Homepage testimonials
+- id: "testimonials_title"
+  translation: "Testimonials"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Contact"
+
+- id: "contact_button"
+  translation: "Stuur bericht"
+
+- id: "contact_form_name"
+  translation: "Naam"
+
+- id: "contact_form_email"
+  translation: "Email adres"
+
+- id: "contact_form_message"
+  translation: "Je bericht hier"
+
+- id: "contact_phone_title"
+#  translation: "Phone Number"
+
+- id: "contact_phone_number"
+#  translation: "+316 (11) 123 44 55"
+
+- id: "contact_email_title"
+  translation: "Email"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:lmb-vdneut@hotmail.com">lmb-vdneut@hotmail.com</a>'
+
+- id: "contact_address_title"
+  translation: "Adres"
+
+- id: "contact_address_address"
+  translation: "Enschede en omgeving, Nederland 🇳🇱"
+
+- id: "contact_button"
+  translation: "Stuur bericht"
+
+## Blog
+- id: "read_more"
+  translation: "Lees meer"
+
+- id: "published_on"
+  translation: "Gepubliceerd op "
+
+- id: "continue_reading"
+  translation: "Lees verder"
+  
+- id: "categories"
+  translation: "Categoriën"
+  
+- id: "recent_posts"
+  translation: "Recente posts"
+
+## 404 Page
+- id: "404_title"
+  translation: "Pagina niet gevonden"
+- id: "404_description"  
+  translation: "Sorry, maar de pagina waar je naar zocht kan niet gevonden worden. 😕"
+- id: "404_button"
+  translation: "Terug naar voorpagina"
+

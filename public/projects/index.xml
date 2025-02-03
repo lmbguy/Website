@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Jan 2025 17:55:38 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICRTIST</title>
+      <link>http://localhost:1313/projects/icrtist/</link>
+      <pubDate>Wed, 29 Jan 2025 17:55:38 +0100</pubDate>
+      <guid>http://localhost:1313/projects/icrtist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TTA Material</title>
+      <link>http://localhost:1313/projects/tta-material/</link>
+      <pubDate>Wed, 29 Jan 2025 17:55:20 +0100</pubDate>
+      <guid>http://localhost:1313/projects/tta-material/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

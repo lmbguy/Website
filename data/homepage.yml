@@ -1,0 +1,88 @@
+## Looking for strings? Check the i18n folder.
+
+# showcase
+showcase:
+  enable: true
+  image:
+    x: "images/uitsnede_portret25.png"
+    _2x: "images/uitsnede_portret50.png"
+  imageMobile:
+    x: "images/uitsnede_portret25.png"
+
+  button:
+    icon: "icon-email"
+    URL: "mailto:lmb-vdneut@hotmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/leon-van-der-neut/"
+
+ #   - icon: "cloud-arrow-down"
+ #     URL: "https://www.adrianmoreno.info/"
+ # TODO: add general resume to website
+# about
+about:
+  enable: true
+  button:
+    icon: "icon-user"
+    URL: "https://www.linkedin.com/in/leon-van-der-neut/"
+  image:
+    x: "images/uitleg12.jpg"
+    _2x: "images/uitleg12.jpg"
+
+# education
+education:
+  enable: true
+  items:
+    - university: "University of Twente"
+      year: "2022-2024"
+      degree: "Master of Science (MSc), Philosophy of Science, Technology, and Society"
+      
+    - university: "University of Twente"
+      year: "2022-2024"
+      degree: "Master of Science (MSc), Public Administration"
+
+    - university: "University College Twente"
+      year: "2017-2021"
+      degree: "Bachelor of Science (BSc), Specialised in intersection of AI, ethics, and policy"
+
+# experience
+## to hide a button, set the icon to an empty string
+experience:
+  enable: false # TODO: add experience lines to the /content/experience folder
+  button:
+    enable: true
+    icon: "icon-linkedin"
+    ## the url and text are localized, fill them in the i18n file
+    ## keys: experience_button, experience_button_url
+  button2:
+    enable: true
+    icon: "icon-file-pdf"
+    ## the url and text are localized, fill them in the i18n file
+    ## keys: experience_button2, experience_button_url2 
+  button3:
+    enable: true
+    icon: "icon-cloud-arrow-down"
+    ## the url and text are localized, fill them in the i18n file
+    ## keys: experience_button2, experience_button_url2 
+
+# Client & Work
+client_and_work:
+  enable: false
+
+# testimonial
+testimonial:
+  enable: false # TODO: gather testimonials from people
+
+# contact 
+contact:
+  enable: true
+  form:
+    action: "https://formspree.io/f/movjdooo"
+    method: "POST"
+  button:
+    icon: "icon-email"
+
+# newsletter
+newsletter:
+  enable: false # TODO: figure out how the newsletter works in this theme

@@ -1,0 +1,18 @@
++++
+date = '2025-01-29T17:17:47+01:00'
+draft = false
+title = 'Niet Flexibel Genoeg Voor NS Flex'
+type = 'blog'
+tags = ['Afstuderen', 'NS', 'Bedrijfsmodel', 'Gebruiksgemak']
++++
+Ik ga graag op stap. Lekker met de trein erop uit naar musea door heel het land, het is iets wat ik graag in het weekend doe. Recentelijk ben ik afgestudeerd. Dit betekent dat ik hier alle tijd voor heb. Wat dit ook betekent is dat ik geen studenten-OV meer heb om gratis het land door te crossen. Een weekend-vrij abonnement is wat ik zoek, terwijl ik grip kan houden op mijn reisuitgaven. Dus begaf ik me naar de NS website om een reisabonnement af te sluiten, zoals iedere geldbewuste treinreiziger betaamd. 
+
+Ik ben gewend geraakt aan het ophogen van mijn saldo bij de automaten. Met 50 euro per keer had ik de vrijheid om te reizen hoe ik wil, maar toch gevoelsmatig inzicht in hoe veel geld ik verreis. Stond ik 3 keer in een maand bij de automaat, dan weet ik dat het een dure maand was. Bij het uitchecken kreeg ik te zien hoeveel de rit kostte en hoeveel saldo ik nog had, u kent het wel. Zo weet je wanneer je saldo weer moet worden opgehoogd, en kon ik ongeveer op de hoogte blijven van trajectprijzen.
+
+Goed, dit gevoel voor mijn uitgaven wil ik dus behouden. Na wat gestruin, extra ge-Google, en diepgravende gesprekken met de chatbot, kom ik tot de conclusie dat er niets anders op zit dan NS-Flex te nemen. Waar het eerder een optie was om op saldo of op rekening te reizen, is NS-Flex nu een soort basis abonnement voor producten zoals mijn felbegeerde weekendvrij product. Met NS-Flex krijg je een maandelijkse afschrijving direct van je bankrekening en zie je niet langer direct bij de poortjes de uitgaven per rit. Exact niet wat ik wil.
+
+Maar NS-Flex is natuurlijk wel het beste voor mij als NS klant, althans, dat is wat de website mij verteld. NS-Flex biedt optimaal comfort: "Altijd direct reizen, zonder saldo laden". Mijn belang als reiziger ligt natuurlijk in een frictieloze 'customer journey' wanneer ik van de NS diensten gebruik wil maken. Ook is mijn leven erg belangrijk en draait alles om mij, zo ook mijn NS-Flex abonnement, want "NS Flex beweegt met je mee". NS-Flex is grenzeloos flexibel, het zit immers in de naam. Ik heb de controle over mijn NS-Flex account, er is maar één voorwaarde aan NS-Flex: NS-Flex. Dus ik moet nogsteeds doen wat ik niet wil. 
+
+Ik moet dus betaalbaar reizen bekopen met betaalgarantie middels het directe incasso en vertraagde kennis over de kosten van mijn reis. Drempelloos, doch veelal afgeschermd met middel- tot schouderhoge poortjes, maar ten koste van mijn gevoelsmatig inzicht in mijn uitgaven. Ik ben dankbaar voor de diensten van de NS (en ProRail) en ik maak er graag gebruik van, maar mijn frustratie over dit voortkruipende businessmodel moet me toch echt van het hart. De abonnementen zijn goed geprijsd, spotgoedkoop als je het met de reguliere trajectprijs vergelijkt, wat natuurlijk komt door de inrichting van het spoor op de spitstijden, en toch blijf ik met het gevoel achter dat ik er met mijn financiële grip voor betaal. 
+
+Eindstand, ik reis er op los voor de sollicitaties die ik als vers afgestudeerde heb en verscheidene musea die ik nog moet bezoeken. Mijn bewuste omgang met geld leidt me dan tot dit soort pleidooien, wetende dat de NS hier diens schouders over op zal halen. Hierdoor is het enige inzicht wat me dit schrijven heeft opgeleverd: dat ik niet genoeg geef om mijn financiële grip om er een godsvermogen aan uit te geven, en toch geniet van de drempelloze customer journey. Ik ben niet flexibel genoeg voor NS-Flex.
