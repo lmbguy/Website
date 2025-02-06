@@ -7,7 +7,7 @@ showcase:
     x: "../images/uitsnede_portret25.png"
     _2x: "../images/uitsnede_portret25.png"
   imageMobile:
-    x: "images/uitsnede_portret25.png"
+    x: "../images/uitsnede_portret25.png"
 
   button:
     icon: "icon-email"
