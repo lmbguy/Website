@@ -4,8 +4,8 @@
 showcase:
   enable: true
   image:
-    x: "images/uitsnede_portret25.png"
-    _2x: "images/uitsnede_portret50.png"
+    x: "../images/uitsnede_portret25.png"
+    _2x: "../images/uitsnede_portret25.png"
   imageMobile:
     x: "images/uitsnede_portret25.png"
 
